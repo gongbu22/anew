@@ -5,9 +5,10 @@
 
 # nodejs node_modules
 node/**/node_modules
+node/**/package-lock.jason
 
 #mongodb backup /json
 mongodb/**/*.json
 mongodb/backup
 
-python/**/.venv
+#python/**/.venv
