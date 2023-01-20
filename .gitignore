@@ -1,0 +1,19 @@
+# anew
+.c9
+.idea
+
+#environment files
+.env
+
+# nodejs node_modules
+node/**/node_modules
+node/**/package-lock.jason
+node/config/pool.js
+node/config/db_config.json
+node/**/uploadedFiles
+
+#mongodb backup /json
+mongodb/**/*.json
+mongodb/backup
+
+#python/**/.venv
